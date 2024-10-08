@@ -13,5 +13,25 @@
 //git config --global user.email "simionescualexandru22@gmail.com
 //>> git config --global user.name "Alex22Simi"
 
+// console.log(var1);
+
+// var var1 = 3;
+
+function test()
+{
+    if(true)
+    {
+    var var1 = 1;
+    const const1 = 2;
+    let let3 = 3;
+    }
+    console.log(var1);
+console.log(const1);
+console.log(let3);
+}
+console.log(var1);
+
+
+
 
 
